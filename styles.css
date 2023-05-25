@@ -11,5 +11,5 @@
 	transition: background-color 1s;
 }
 .square:hover{
-	background-color: #ff0000;
+	background-color: white;
 }
